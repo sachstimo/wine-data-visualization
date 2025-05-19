@@ -1,0 +1,405 @@
+﻿ID;Wine frequency consumption;Payment mode;Place to drink;Additional products;Gender;Education;Age;Ticket
+1;1 to 2 times per week;Debit card;Parties;Cheese;Male;Secondary ;31 to 40; € 66,00 
+2;Once per month;Credit card;Parties;Chocolate;Male;Technical Superior Unfinished;23 to 30; € 13,00 
+3;1 to 2 times per week;Credit card;Parties;Cheese;Female;Universitary Degree;31 to 40; € 10,00 
+4;Once per month;Cash;Home;Olives;Male;Postgraduate;41 to 50; € 19,00 
+5;1 to 2 times per week;Debit card;Parties;Olives;Female;Technical Superior;31 to 40; € 87,00 
+6;Once per month;Debit card;On holidays;Olives;Female;Universitary Degree;41 to 50; € 66,00 
+7;1 to 2 times per week;Cash;Parties;Spanish ham;Female;Universitary Degree;31 to 40; € 74,00 
+8;3 to 4 times per week;Cash;On holidays;Olives;Female;Universitary Degree;31 to 40; € 81,00 
+9;1 to 2 times per week;Cash;Home;Spanish ham;Female;Universitary Degree;41 to 50; € 92,00 
+10;Once per day;Cash;Home;Olives;Female;Technical Superior;23 to 30; € 72,00 
+11;3 to 4 times per week;Cash;Parties;Candies;Male;Secondary ;31 to 40; € 56,00 
+12;Once per month;Cash;Home;Spanish ham;Female;Postgraduate;more than 50; € 59,00 
+13;Once per month;Cash;On holidays;Olives;Male;Universitary Degree;31 to 40; € 84,00 
+14;1 to 2 times per week;Cash;Home;Chocolate;Male;Secondary Unfinished;31 to 40; € 46,00 
+15;Once per day;Cash;Birthday party;Olives;Male;Universitary Degree;41 to 50; € 17,00 
+16;3 to 4 times per week;Cash;Friends home;Cheese;Female;Universitary Degree;23 to 30; € 49,00 
+17;Once per month;Debit card;Friends home;Spanish ham;Female;Secondary ;31 to 40; € 65,00 
+18;1 to 2 times per week;Cash;On holidays;Olives;Female;Technical Superior;31 to 40; € 94,00 
+19;1 to 2 times per week;Credit card;Parties;Spanish ham;Female;Postgraduate;31 to 40; € 11,00 
+20;1 to 2 times per week;Cash;Parties;Olives;Male;Postgraduate;31 to 40; € 27,00 
+21;1 to 2 times per week;Cash;Parties;Cheese;Male;Secondary Unfinished;31 to 40; € 69,00 
+22;1 to 2 times per week;Cash;Birthday party;Olives;Male;Technical Superior;31 to 40; € 60,00 
+23;3 to 4 times per week;Cash;On holidays;Salmond;Female;Technical Superior;23 to 30; € 12,00 
+24;Once per month;Cash;Parties;Chocolate;Male;Technical Superior Unfinished;41 to 50; € 46,00 
+25;Once per month;Debit card;On holidays;Chocolate;Male;Universitary Degree Unfinished;41 to 50; € 81,00 
+26;1 to 2 times per week;Debit card;Parties;Cheese;Female;Universitary Degree;41 to 50; € 81,00 
+27;1 to 2 times per week;Cash;Friends home;Cheese;Male;Technical Superior;31 to 40; € 77,00 
+28;Once per day;Cash;Parties;Cheese;Female;Universitary Degree Unfinished;23 to 30; € 52,00 
+29;Once per day;Cash;Parties;Chocolate;Female;Universitary Degree;41 to 50; € 94,00 
+30;3 to 4 times per week;Cash;Parties;Olives;Male;Postgraduate;more than 50; € 37,00 
+31;1 to 2 times per week;Cash;Friends home;Olives;Male;Universitary Degree;31 to 40; € 40,00 
+32;Once per month;Cash;With your couple;Olives;Male;Secondary ;41 to 50; € 95,00 
+33;Once per month;Cash;With your couple;Olives;Male;Universitary Degree;41 to 50; € 11,00 
+34;1 to 2 times per week;Cash;Friends home;Chocolate;Female;Postgraduate Unfinished;41 to 50; € 43,00 
+35;5 to 6 times per week;Cash;Parties;Cheese;Female;Postgraduate;31 to 40; € 94,00 
+36;Once per month;Cash;Birthday party;Candies;Female;Universitary Degree Unfinished;23 to 30; € 52,00 
+37;1 to 2 times per week;Cash;Home;Chocolate;Male;Secondary ;more than 50; € 65,00 
+38;3 to 4 times per week;Credit card;Friends home;Spanish ham;Female;Universitary Degree;31 to 40; € 42,00 
+39;Once per month;Cash;Birthday party;Olives;Male;Postgraduate;more than 50; € 84,00 
+40;3 to 4 times per week;Cash;Parties;Chocolate;Female;Universitary Degree;31 to 40; € 21,00 
+41;Once per day;Cash;With your couple;Nuts;Male;Technical Superior;23 to 30; € 38,00 
+42;More than once per month;Debit card;On holidays;Cheese;Male;Universitary Degree;31 to 40; € 53,00 
+43;1 to 2 times per week;Cash;With your couple;Olives;Female;Universitary Degree;31 to 40; € 65,00 
+44;Once per day;Cash;Parties;Cheese;Female;Universitary Degree;41 to 50; € 99,00 
+45;Once per day;Cash;Home;Olives;Female;Secondary Unfinished;41 to 50; € 59,00 
+46;1 to 2 times per week;Credit card;Friends home;Cheese;Male;Universitary Degree Unfinished;23 to 30; € 82,00 
+47;1 to 2 times per week;Cash;Parties;Olives;Male;Secondary ;41 to 50; € 20,00 
+48;1 to 2 times per week;Cash;With your couple;Nuts;Male;Technical Superior;23 to 30; € 12,00 
+49;1 to 2 times per week;Credit card;With your couple;Chocolate;Male;Postgraduate;41 to 50; € 72,00 
+50;Once per month;Cash;With your couple;Olives;Male;Postgraduate;31 to 40; € 12,00 
+51;1 to 2 times per week;Credit card;Home;Salmond;Female;Postgraduate;41 to 50; € 92,00 
+52;3 to 4 times per week;Cash;Friends home;Chocolate;Female;Technical Superior;more than 50; € 62,00 
+53;Once per month;Cash;Friends home;Chocolate;Male;Universitary Degree;31 to 40; € 64,00 
+54;Once per month;Cash;Parties;Salmond;Male;Secondary ;more than 50; € 73,00 
+55;1 to 2 times per week;Debit card;Friends home;Olives;Female;Postgraduate;41 to 50; € 11,00 
+56;1 to 2 times per week;Debit card;On holidays;Olives;Male;Universitary Degree;more than 50; € 31,00 
+57;1 to 2 times per week;Cash;Parties;Spanish ham;Male;Postgraduate;more than 50; € 16,00 
+58;Once per month;Cash;Parties;Chocolate;Male;Secondary Unfinished;41 to 50; € 84,00 
+59;Once per month;Debit card;Friends home;Salmond;Female;Postgraduate;more than 50; € 97,00 
+60;3 to 4 times per week;Cash;Home;Spanish ham;Male;Universitary Degree;more than 50; € 16,00 
+61;1 to 2 times per week;Debit card;Parties;Olives;Female;Universitary Degree;23 to 30; € 66,00 
+62;1 to 2 times per week;Cash;On holidays;Olives;Male;Technical Superior;41 to 50; € 58,00 
+63;1 to 2 times per week;Debit card;Home;Olives;Female;Secondary ;23 to 30; € 26,00 
+64;1 to 2 times per week;Credit card;Parties;Olives;Female;Secondary ;41 to 50; € 38,00 
+65;Once per month;Cash;Parties;Spanish ham;Male;Postgraduate;31 to 40; € 62,00 
+66;1 to 2 times per week;Cash;Parties;Salmond;Female;Technical Superior Unfinished;23 to 30; € 62,00 
+67;1 to 2 times per week;Credit card;Parties;Candies;Female;Postgraduate;31 to 40; € 57,00 
+68;Once per day;Cash;Home;Salmond;Female;Universitary Degree;31 to 40; € 56,00 
+69;3 to 4 times per week;Cash;Parties;Olives;Male;Technical Superior;more than 50; € 69,00 
+70;1 to 2 times per week;Debit card;Parties;Salmond;Female;Universitary Degree Unfinished;23 to 30; € 24,00 
+71;1 to 2 times per week;Cash;Friends home;Salmond;Female;Postgraduate;41 to 50; € 18,00 
+72;3 to 4 times per week;Credit card;Parties;Olives;Male;Universitary Degree Unfinished;23 to 30; € 28,00 
+73;1 to 2 times per week;Debit card;Home;Salmond;Female;Universitary Degree;31 to 40; € 24,00 
+74;Once per month;Cash;Parties;Salmond;Male;Secondary ;31 to 40; € 85,00 
+75;Once per day;Credit card;Home;Olives;Female;Universitary Degree;31 to 40; € 17,00 
+76;1 to 2 times per week;Debit card;Friends home;Salmond;Female;Technical Superior;23 to 30; € 78,00 
+77;Once per day;Cash;Home;Candies;Female;Universitary Degree Unfinished;23 to 30; € 60,00 
+78;Once per day;Cash;On holidays;Spanish ham;Male;Postgraduate;more than 50; € 98,00 
+79;1 to 2 times per week;Cash;Home;Olives;Male;Technical Superior Unfinished;23 to 30; € 87,00 
+80;1 to 2 times per week;Cash;Parties;Chocolate;Male;Secondary ;31 to 40; € 46,00 
+81;Once per day;Cash;Parties;Candies;Male;Secondary ;23 to 30; € 74,00 
+82;Once per month;Cash;On holidays;Spanish ham;Male;Universitary Degree;more than 50; € 33,00 
+83;3 to 4 times per week;Cash;On holidays;Cheese;Male;Universitary Degree;31 to 40; € 68,00 
+84;1 to 2 times per week;Cash;Birthday party;Cheese;Female;Technical Superior;23 to 30; € 90,00 
+85;Once per month;Cash;Parties;Spanish ham;Female;Universitary Degree;23 to 30; € 36,00 
+86;1 to 2 times per week;Debit card;Parties;Chocolate;Female;Universitary Degree;23 to 30; € 44,00 
+87;Once per month;Cash;With your couple;Chocolate;Male;Universitary Degree;31 to 40; € 21,00 
+88;3 to 4 times per week;Debit card;Parties;Olives;Male;Secondary ;31 to 40; € 26,00 
+89;3 to 4 times per week;Cash;Parties;Olives;Female;Postgraduate;41 to 50; € 34,00 
+90;1 to 2 times per week;Cash;Parties;Olives;Male;Secondary Unfinished;31 to 40; € 12,00 
+91;Once per month;Credit card;On holidays;Chocolate;Male;Universitary Degree;more than 50; € 82,00 
+92;Once per day;Cash;Home;Chocolate;Female;Postgraduate Unfinished;23 to 30; € 75,00 
+93;1 to 2 times per week;Cash;Parties;Candies;Male;Technical Superior;more than 50; € 20,00 
+94;1 to 2 times per week;Debit card;Parties;Salmond;Male;Universitary Degree;31 to 40; € 85,00 
+95;Once per month;Credit card;Parties;Salmond;Male;Secondary ;41 to 50; € 44,00 
+96;Once per month;Credit card;Parties;Salmond;Male;Universitary Degree;31 to 40; € 16,00 
+97;1 to 2 times per week;Cash;Birthday party;Salmond;Male;Postgraduate;41 to 50; € 88,00 
+98;Once per month;Credit card;Friends home;Salmond;Male;Universitary Degree;more than 50; € 25,00 
+99;Once per day;Cash;With your couple;Salmond;Male;Universitary Degree;more than 50; € 41,00 
+100;1 to 2 times per week;Cash;Parties;Candies;Female;Universitary Degree Unfinished;23 to 30; € 58,00 
+101;1 to 2 times per week;Cash;On holidays;Candies;Female;Technical Superior;31 to 40; € 74,00 
+102;Once per month;Cash;Parties;Olives;Female;Technical Superior Unfinished;more than 50; € 99,00 
+103;1 to 2 times per week;Cash;Home;Cheese;Male;Secondary ;23 to 30; € 81,00 
+104;1 to 2 times per week;Cash;Friends home;Chocolate;Male;Technical Superior;31 to 40; € 66,00 
+105;1 to 2 times per week;Cash;Friends home;Olives;Male;Secondary ;31 to 40; € 57,00 
+106;1 to 2 times per week;Cash;Friends home;Salmond;Female;Universitary Degree Unfinished;23 to 30; € 52,00 
+107;1 to 2 times per week;Cash;Friends home;Olives;Male;Technical Superior Unfinished;23 to 30; € 48,00 
+108;Once per month;Cash;On holidays;Cheese;Male;Universitary Degree;23 to 30; € 80,00 
+109;3 to 4 times per week;Credit card;Birthday party;Olives;Male;Postgraduate;more than 50; € 14,00 
+110;1 to 2 times per week;Credit card;Parties;Chocolate;Male;Universitary Degree;31 to 40; € 90,00 
+111;1 to 2 times per week;Cash;Parties;Chocolate;Female;Technical Superior;more than 50; € 50,00 
+112;Once per month;Debit card;Parties;Salmond;Female;Universitary Degree;23 to 30; € 95,00 
+113;1 to 2 times per week;Debit card;On holidays;Salmond;Female;Secondary ;more than 50; € 39,00 
+114;Once per month;Cash;On holidays;Candies;Female;Technical Superior Unfinished;23 to 30; € 32,00 
+115;1 to 2 times per week;Cash;Parties;Olives;Male;Universitary Degree;31 to 40; € 76,00 
+116;1 to 2 times per week;Cash;Parties;Cheese;Female;Secondary ;31 to 40; € 29,00 
+117;5 to 6 times per week;Cash;On holidays;Salmond;Female;Primary;41 to 50; € 59,00 
+118;Once per month;Cash;Friends home;Spanish ham;Male;Universitary Degree;41 to 50; € 46,00 
+119;Once per day;Cash;Parties;Chocolate;Male;Universitary Degree Unfinished;23 to 30; € 38,00 
+120;1 to 2 times per week;Cash;On holidays;Olives;Male;Universitary Degree;31 to 40; € 14,00 
+121;1 to 2 times per week;Cash;On holidays;Olives;Female;Universitary Degree;31 to 40; € 39,00 
+122;Once per month;Cash;Parties;Cheese;Female;Universitary Degree;41 to 50; € 78,00 
+123;Once per month;Cash;Birthday party;Salmond;Male;Secondary ;31 to 40; € 29,00 
+124;1 to 2 times per week;Cash;Parties;Cheese;Female;Technical Superior Unfinished;more than 50; € 48,00 
+125;5 to 6 times per week;Cash;Parties;Chocolate;Female;Secondary ;41 to 50; € 41,00 
+126;Once per month;Cash;Parties;Spanish ham;Female;Technical Superior;31 to 40; € 22,00 
+127;Once per month;Cash;Parties;Spanish ham;Male;Universitary Degree;more than 50; € 79,00 
+128;Once per day;Debit card;Friends home;Olives;Male;Technical Superior Unfinished;23 to 30; € 73,00 
+129;3 to 4 times per week;Cash;Parties;Chocolate;Male;Universitary Degree;31 to 40; € 65,00 
+130;Once per month;Cash;Parties;Salmond;Male;Technical Superior;23 to 30; € 93,00 
+131;Once per month;Cash;Parties;Spanish ham;Male;Secondary ;more than 50; € 99,00 
+132;1 to 2 times per week;Cash;On holidays;Salmond;Female;Universitary Degree;31 to 40; € 45,00 
+133;Once per month;Cash;Parties;Spanish ham;Male;Secondary Unfinished;31 to 40; € 32,00 
+134;Once per day;Cash;Home;Spanish ham;Female;Universitary Degree;31 to 40; € 96,00 
+135;Once per day;Cash;Parties;Salmond;Male;Universitary Degree;41 to 50; € 80,00 
+136;Once per month;Cash;With your couple;Chocolate;Male;Secondary Unfinished;23 to 30; € 29,00 
+137;1 to 2 times per week;Cash;Friends home;Spanish ham;Female;Postgraduate Unfinished;41 to 50; € 75,00 
+138;Once per month;Credit card;Home;Salmond;Male;Technical Superior;41 to 50; € 10,00 
+139;3 to 4 times per week;Cash;Friends home;Olives;Female;Technical Superior Unfinished;23 to 30; € 68,00 
+140;1 to 2 times per week;Cash;Home;Olives;Female;Universitary Degree;41 to 50; € 14,00 
+141;Once per month;Cash;Friends home;Olives;Male;Universitary Degree Unfinished;31 to 40; € 59,00 
+142;Once per month;Cash;Birthday party;Salmond;Male;Secondary ;31 to 40; € 74,00 
+143;1 to 2 times per week;Cash;Parties;Spanish ham;Female;Universitary Degree;more than 50; € 86,00 
+144;Once per month;Debit card;On holidays;Cheese;Female;Postgraduate;31 to 40; € 74,00 
+145;5 to 6 times per week;Cash;Parties;Olives;Male;Postgraduate;41 to 50; € 64,00 
+146;Once per month;Cash;Parties;Olives;Female;Secondary ;more than 50; € 45,00 
+147;3 to 4 times per week;Cash;Parties;Cheese;Male;Secondary Unfinished;31 to 40; € 32,00 
+148;1 to 2 times per week;Credit card;Parties;Olives;Male;Universitary Degree;31 to 40; € 13,00 
+149;1 to 2 times per week;Cash;Home;Olives;Male;Postgraduate;31 to 40; € 96,00 
+150;Once per month;Cash;Parties;Salmond;Male;Universitary Degree;41 to 50; € 22,00 
+151;3 to 4 times per week;Cash;Friends home;Chocolate;Male;Technical Superior Unfinished;23 to 30; € 73,00 
+152;Once per month;Cash;Friends home;Cookies;Female;Universitary Degree;more than 50; € 25,00 
+153;Once per day;Credit card;Friends home;Cookies;Female;Technical Superior;41 to 50; € 71,00 
+154;Once per day;Credit card;On holidays;Spanish ham;Male;Postgraduate;31 to 40; € 42,00 
+155;1 to 2 times per week;Debit card;Parties;Salmond;Male;Technical Superior;31 to 40; € 81,00 
+156;Once per day;Debit card;Friends home;Chocolate;Male;Universitary Degree;31 to 40; € 72,00 
+157;1 to 2 times per week;Cash;Parties;Candies;Male;Universitary Degree;31 to 40; € 64,00 
+158;3 to 4 times per week;Debit card;Parties;Cookies;Male;Postgraduate;41 to 50; € 27,00 
+159;1 to 2 times per week;Cash;On holidays;Olives;Male;Universitary Degree;31 to 40; € 87,00 
+160;1 to 2 times per week;Debit card;Parties;Cheese;Female;Universitary Degree;23 to 30; € 22,00 
+161;Once per month;Debit card;On holidays;Spanish ham;Female;Postgraduate;more than 50; € 42,00 
+162;1 to 2 times per week;Debit card;Home;Spanish ham;Male;Universitary Degree;more than 50; € 37,00 
+163;1 to 2 times per week;Cash;Friends home;Olives;Female;Technical Superior;31 to 40; € 65,00 
+164;1 to 2 times per week;Credit card;With your couple;Spanish ham;Male;Universitary Degree;31 to 40; € 21,00 
+165;3 to 4 times per week;Cash;Home;Olives;Male;Secondary ;23 to 30; € 10,00 
+166;Once per month;Credit card;With your couple;Spanish ham;Male;Secondary Unfinished;more than 50; € 64,00 
+167;1 to 2 times per week;Cash;Birthday party;Spanish ham;Male;Postgraduate Unfinished;23 to 30; € 94,00 
+168;5 to 6 times per week;Cash;Parties;Nuts;Male;Technical Superior;23 to 30; € 81,00 
+169;Once per month;Cash;Home;Olives;Male;Universitary Degree;23 to 30; € 99,00 
+170;1 to 2 times per week;Cash;Friends home;Cheese;Male;Universitary Degree;23 to 30; € 49,00 
+171;1 to 2 times per week;Cash;Home;Cookies;Female;Technical Superior;more than 50; € 67,00 
+172;1 to 2 times per week;Cash;Parties;Salmond;Male;Technical Superior;23 to 30; € 91,00 
+173;Once per month;Credit card;On holidays;Olives;Male;Universitary Degree;23 to 30; € 21,00 
+174;1 to 2 times per week;Credit card;Birthday party;Spanish ham;Female;Universitary Degree;23 to 30; € 47,00 
+175;Once per day;Cash;Parties;Olives;Female;Secondary ;23 to 30; € 49,00 
+176;Once per month;Cash;Restaurant;Spanish ham;Female;Secondary ;more than 50; € 94,00 
+177;3 to 4 times per week;Cash;Parties;Spanish ham;Female;Universitary Degree;41 to 50; € 25,00 
+178;Once per day;Cash;Friends home;Salmond;Male;Universitary Degree;more than 50; € 85,00 
+179;Once per day;Cash;Home;Cheese;Male;Secondary ;31 to 40; € 18,00 
+180;Once per month;Cash;Parties;Spanish ham;Female;Secondary Unfinished;more than 50; € 35,00 
+181;3 to 4 times per week;Cash;Home;Olives;Female;Technical Superior Unfinished;23 to 30; € 47,00 
+182;1 to 2 times per week;Cash;Home;Spanish ham;Female;Postgraduate;more than 50; € 41,00 
+183;Once per day;Cash;Restaurant;Chocolate;Female;Secondary ;more than 50; € 78,00 
+184;Once per day;Cash;Restaurant;Spanish ham;Female;Secondary ;41 to 50; € 71,00 
+185;Once per day;Cash;Home;Chocolate;Female;Secondary ;23 to 30; € 14,00 
+186;3 to 4 times per week;Cash;Home;Olives;Female;Universitary Degree;31 to 40; € 14,00 
+187;3 to 4 times per week;Debit card;On holidays;Olives;Male;Universitary Degree;23 to 30; € 87,00 
+188;3 to 4 times per week;Cash;Friends home;Olives;Female;Technical Superior;more than 50; € 33,00 
+189;1 to 2 times per week;Cash;Parties;Spanish ham;Male;Technical Superior;41 to 50; € 55,00 
+190;Once per day;Cash;Parties;Chocolate;Male;Universitary Degree;41 to 50; € 56,00 
+191;Once per month;Debit card;Parties;Chocolate;Female;Universitary Degree;31 to 40; € 29,00 
+192;1 to 2 times per week;Cash;Parties;Spanish ham;Male;Universitary Degree;more than 50; € 42,00 
+193;3 to 4 times per week;Cash;Parties;Spanish ham;Male;Universitary Degree;23 to 30; € 15,00 
+194;Once per month;Credit card;Birthday party;Cheese;Female;Secondary ;23 to 30; € 15,00 
+195;1 to 2 times per week;Debit card;Parties;Spanish ham;Male;Universitary Degree Unfinished;23 to 30; € 16,00 
+196;1 to 2 times per week;Cash;Home;Salmond;Male;Technical Superior;31 to 40; € 12,00 
+197;3 to 4 times per week;Cash;Friends home;Candies;Female;Technical Superior;31 to 40; € 14,00 
+198;1 to 2 times per week;Cash;Parties;Candies;Female;Technical Superior;41 to 50; € 50,00 
+199;Once per month;Credit card;With your couple;Salmond;Male;Universitary Degree;41 to 50; € 89,00 
+200;1 to 2 times per week;Cash;Home;Spanish ham;Female;Postgraduate;41 to 50; € 33,00 
+201;3 to 4 times per week;Cash;Parties;Nuts;Male;Technical Superior;31 to 40; € 52,00 
+202;Once per day;Cash;Home;Salmond;Male;Secondary Unfinished;31 to 40; € 77,00 
+203;1 to 2 times per week;Cash;Parties;Cheese;Male;Universitary Degree;more than 50; € 86,00 
+204;1 to 2 times per week;Cash;Home;Spanish ham;Male;Universitary Degree;more than 50; € 63,00 
+205;Once per month;Credit card;On holidays;Nuts;Male;Secondary ;23 to 30; € 84,00 
+206;5 to 6 times per week;Cash;On holidays;Candies;Male;Technical Superior;23 to 30; € 83,00 
+207;Once per month;Cash;On holidays;Candies;Male;Technical Superior;23 to 30; € 31,00 
+208;Once per day;Credit card;Parties;Olives;Female;Postgraduate;23 to 30; € 46,00 
+209;1 to 2 times per week;Cash;Friends home;Spanish ham;Female;Postgraduate;31 to 40; € 74,00 
+210;Once per day;Cash;Home;Olives;Female;Universitary Degree Unfinished;23 to 30; € 11,00 
+211;Once per month;Cash;Friends home;Cheese;Male;Technical Superior;23 to 30; € 66,00 
+212;3 to 4 times per week;Cash;On holidays;Salmond;Female;Technical Superior;31 to 40; € 92,00 
+213;Once per month;Cash;With your couple;Olives;Male;Secondary ;more than 50; € 23,00 
+214;3 to 4 times per week;Cash;Parties;Olives;Male;Universitary Degree;31 to 40; € 65,00 
+215;3 to 4 times per week;Cash;Friends home;Cheese;Male;Technical Superior Unfinished;23 to 30; € 12,00 
+216;3 to 4 times per week;Cash;Home;Chocolate;Male;Universitary Degree;more than 50; € 60,00 
+217;1 to 2 times per week;Cash;Parties;Spanish ham;Male;Secondary ;23 to 30; € 39,00 
+218;Once per month;Cash;With your couple;Spanish ham;Female;Technical Superior;more than 50; € 80,00 
+219;1 to 2 times per week;Cash;On holidays;Olives;Male;Universitary Degree;23 to 30; € 53,00 
+220;1 to 2 times per week;Cash;Restaurant;Spanish ham;Female;Universitary Degree;41 to 50; € 90,00 
+221;1 to 2 times per week;Cash;Friends home;Spanish ham;Female;Primary;41 to 50; € 91,00 
+222;1 to 2 times per week;Debit card;Restaurant;Spanish ham;Male;Secondary ;more than 50; € 55,00 
+223;1 to 2 times per week;Cash;Restaurant;Spanish ham;Female;Universitary Degree;more than 50; € 84,00 
+224;1 to 2 times per week;Cash;On holidays;Salmond;Male;Universitary Degree;31 to 40; € 29,00 
+225;1 to 2 times per week;Cash;Home;Cookies;Male;Technical Superior;more than 50; € 35,00 
+226;Once per month;Debit card;On holidays;Cheese;Female;Universitary Degree;31 to 40; € 48,00 
+227;1 to 2 times per week;Credit card;Parties;Cheese;Female;Secondary ;31 to 40; € 20,00 
+228;1 to 2 times per week;Debit card;Parties;Spanish ham;Male;Postgraduate;41 to 50; € 23,00 
+229;Once per month;Cash;Birthday party;Salmond;Male;Secondary ;31 to 40; € 63,00 
+230;Once per month;Cash;On holidays;Salmond;Female;Primary;41 to 50; € 30,00 
+231;Once per day;Cash;Parties;Cookies;Male;Secondary ;more than 50; € 37,00 
+232;Once per day;Debit card;With your couple;Olives;Female;Universitary Degree;more than 50; € 22,00 
+233;3 to 4 times per week;Cash;Home;Salmond;Female;Secondary ;31 to 40; € 79,00 
+234;1 to 2 times per week;Credit card;On holidays;Chocolate;Female;Technical Superior;41 to 50; € 12,00 
+235;Once per day;Cash;Parties;Spanish ham;Female;Universitary Degree;41 to 50; € 62,00 
+236;Once per day;Debit card;Restaurant;Spanish ham;Female;Universitary Degree Unfinished;41 to 50; € 57,00 
+237;1 to 2 times per week;Credit card;Parties;Spanish ham;Male;Universitary Degree;more than 50; € 10,00 
+238;3 to 4 times per week;Credit card;Parties;Spanish ham;Male;Universitary Degree;more than 50; € 28,00 
+239;1 to 2 times per week;Credit card;Parties;Chocolate;Female;Universitary Degree;31 to 40; € 22,00 
+240;1 to 2 times per week;Cash;Birthday party;Spanish ham;Male;Universitary Degree;41 to 50; € 48,00 
+241;1 to 2 times per week;Credit card;On holidays;Olives;Male;Universitary Degree;41 to 50; € 69,00 
+242;1 to 2 times per week;Debit card;On holidays;Salmond;Female;Postgraduate;41 to 50; € 85,00 
+243;Once per month;Debit card;Parties;Cookies;Female;Postgraduate;41 to 50; € 68,00 
+244;3 to 4 times per week;Credit card;Parties;Spanish ham;Female;Postgraduate;41 to 50; € 15,00 
+245;Once per month;Credit card;On holidays;Cookies;Male;Postgraduate;more than 50; € 79,00 
+246;Once per day;Cash;Birthday party;Salmond;Female;Secondary ;23 to 30; € 98,00 
+247;1 to 2 times per week;Cash;Parties;Salmond;Female;Postgraduate;more than 50; € 40,00 
+248;Once per month;Credit card;Parties;Salmond;Male;Postgraduate;31 to 40; € 100,00 
+249;1 to 2 times per week;Credit card;Birthday party;Chocolate;Male;Postgraduate;41 to 50; € 17,00 
+250;1 to 2 times per week;Debit card;Birthday party;Olives;Male;Technical Superior;31 to 40; € 89,00 
+251;3 to 4 times per week;Cash;Birthday party;Cheese;Male;Universitary Degree;31 to 40; € 10,00 
+252;Once per month;Debit card;On holidays;Cookies;Male;Universitary Degree;more than 50; € 86,00 
+253;1 to 2 times per week;Cash;Parties;Salmond;Female;Universitary Degree;31 to 40; € 36,00 
+254;1 to 2 times per week;Cash;Parties;Spanish ham;Female;Secondary ;23 to 30; € 92,00 
+255;Once per day;Cash;Birthday party;Spanish ham;Male;Secondary ;more than 50; € 23,00 
+256;5 to 6 times per week;Credit card;On holidays;Cookies;Female;Secondary ;41 to 50; € 100,00 
+257;1 to 2 times per week;Debit card;On holidays;Spanish ham;Male;Universitary Degree;more than 50; € 75,00 
+258;1 to 2 times per week;Cash;Parties;Olives;Male;Universitary Degree Unfinished;more than 50; € 54,00 
+259;1 to 2 times per week;Debit card;Friends home;Olives;Male;Technical Superior;41 to 50; € 58,00 
+260;1 to 2 times per week;Cash;Birthday party;Nuts;Female;Secondary ;23 to 30; € 43,00 
+261;Once per month;Cash;Parties;Spanish ham;Male;Postgraduate;more than 50; € 88,00 
+262;Once per day;Cash;Parties;Spanish ham;Female;Secondary ;23 to 30; € 52,00 
+263;3 to 4 times per week;Credit card;Parties;Chocolate;Female;Technical Superior;31 to 40; € 21,00 
+264;1 to 2 times per week;Credit card;Parties;Cookies;Male;Universitary Degree;more than 50; € 69,00 
+265;Once per day;Cash;Parties;Salmond;Female;Technical Superior Unfinished;more than 50; € 62,00 
+266;Once per day;Credit card;Friends home;Salmond;Female;Secondary ;41 to 50; € 96,00 
+267;3 to 4 times per week;Credit card;Home;Olives;Female;Technical Superior Unfinished;23 to 30; € 88,00 
+268;Once per day;Cash;Home;Salmond;Female;Secondary Unfinished;41 to 50; € 100,00 
+269;1 to 2 times per week;Credit card;Home;Olives;Male;Universitary Degree;41 to 50; € 96,00 
+270;1 to 2 times per week;Debit card;Restaurant;Chocolate;Female;Technical Superior Unfinished;31 to 40; € 85,00 
+271;1 to 2 times per week;Debit card;Parties;Spanish ham;Male;Postgraduate;more than 50; € 97,00 
+272;3 to 4 times per week;Cash;Parties;Chocolate;Female;Postgraduate;more than 50; € 96,00 
+273;1 to 2 times per week;Debit card;Friends home;Chocolate;Male;Postgraduate;more than 50; € 65,00 
+274;3 to 4 times per week;Cash;Friends home;Spanish ham;Female;Secondary ;31 to 40; € 91,00 
+275;Once per day;Credit card;Home;Salmond;Female;Secondary ;23 to 30; € 55,00 
+276;Once per month;Credit card;Friends home;Spanish ham;Female;Primary;41 to 50; € 29,00 
+277;1 to 2 times per week;Debit card;Parties;Cheese;Female;Postgraduate;31 to 40; € 55,00 
+278;Once per day;Cash;Parties;Salmond;Male;Secondary ;31 to 40; € 12,00 
+279;1 to 2 times per week;Cash;Restaurant;Olives;Male;Postgraduate;more than 50; € 58,00 
+280;1 to 2 times per week;Cash;Birthday party;Spanish ham;Male;Secondary ;23 to 30; € 48,00 
+281;1 to 2 times per week;Credit card;Parties;Chocolate;Male;Universitary Degree;41 to 50; € 38,00 
+282;Once per month;Credit card;Parties;Chocolate;Female;Universitary Degree;41 to 50; € 82,00 
+283;Once per month;Cash;On holidays;Olives;Male;Universitary Degree;23 to 30; € 98,00 
+284;1 to 2 times per week;Cash;On holidays;Chocolate;Female;Universitary Degree;23 to 30; € 56,00 
+285;Once per month;Cash;Parties;Spanish ham;Male;Technical Superior;23 to 30; € 28,00 
+286;Once per month;Cash;Parties;Nuts;Male;Technical Superior;23 to 30; € 44,00 
+287;1 to 2 times per week;Cash;Home;Olives;Female;Technical Superior;31 to 40; € 63,00 
+288;3 to 4 times per week;Cash;Birthday party;Spanish ham;Male;Universitary Degree;31 to 40; € 56,00 
+289;Once per day;Cash;Home;Olives;Female;Universitary Degree Unfinished;31 to 40; € 38,00 
+290;Once per month;Cash;Restaurant;Spanish ham;Female;Universitary Degree;more than 50; € 70,00 
+291;Once per month;Cash;Parties;Olives;Female;Secondary ;41 to 50; € 70,00 
+292;1 to 2 times per week;Cash;On holidays;Olives;Male;Secondary ;23 to 30; € 18,00 
+293;5 to 6 times per week;Credit card;Parties;Salmond;Male;Universitary Degree;31 to 40; € 91,00 
+294;Once per day;Cash;Parties;Olives;Female;Technical Superior Unfinished;23 to 30; € 87,00 
+295;1 to 2 times per week;Debit card;Home;Spanish ham;Female;Technical Superior;31 to 40; € 32,00 
+296;1 to 2 times per week;Cash;Friends home;Cheese;Male;Secondary ;23 to 30; € 50,00 
+297;3 to 4 times per week;Debit card;Parties;Spanish ham;Male;Technical Superior;31 to 40; € 47,00 
+298;Once per day;Cash;Friends home;Cheese;Male;Technical Superior Unfinished;41 to 50; € 11,00 
+299;1 to 2 times per week;Cash;Home;Chocolate;Female;Universitary Degree;31 to 40; € 93,00 
+300;1 to 2 times per week;Cash;Parties;Olives;Male;Universitary Degree;31 to 40; € 53,00 
+301;3 to 4 times per week;Cash;Home;Olives;Female;Technical Superior;41 to 50; € 16,00 
+302;1 to 2 times per week;Credit card;Home;Olives;Female;Universitary Degree;41 to 50; € 97,00 
+303;3 to 4 times per week;Cash;Restaurant;Spanish ham;Male;Technical Superior;more than 50; € 14,00 
+304;1 to 2 times per week;Debit card;Parties;Spanish ham;Female;Technical Superior;31 to 40; € 13,00 
+305;1 to 2 times per week;Debit card;On holidays;Spanish ham;Male;Universitary Degree;41 to 50; € 42,00 
+306;Once per day;Cash;Home;Spanish ham;Male;Technical Superior Unfinished;31 to 40; € 57,00 
+307;3 to 4 times per week;Cash;Home;Spanish ham;Male;Postgraduate;more than 50; € 38,00 
+308;3 to 4 times per week;Credit card;Restaurant;Salmond;Male;Universitary Degree Unfinished;more than 50; € 77,00 
+309;3 to 4 times per week;Cash;Friends home;Chocolate;Female;Technical Superior;31 to 40; € 12,00 
+310;3 to 4 times per week;Cash;Parties;Chocolate;Female;Secondary ;31 to 40; € 91,00 
+311;1 to 2 times per week;Cash;Home;Salmond;Male;Universitary Degree;31 to 40; € 58,00 
+312;1 to 2 times per week;Cash;Parties;Olives;Female;Universitary Degree;31 to 40; € 45,00 
+313;Once per day;Cash;Restaurant;Spanish ham;Female;Universitary Degree Unfinished;more than 50; € 83,00 
+314;Once per month;Cash;Parties;Cheese;Female;Technical Superior;23 to 30; € 98,00 
+315;Once per month;Debit card;Parties;Spanish ham;Male;Universitary Degree;41 to 50; € 75,00 
+316;3 to 4 times per week;Debit card;On holidays;Candies;Male;Universitary Degree Unfinished;23 to 30; € 48,00 
+317;1 to 2 times per week;Cash;Friends home;Olives;Female;Secondary ;31 to 40; € 46,00 
+318;1 to 2 times per week;Cash;On holidays;Salmond;Female;Universitary Degree;23 to 30; € 79,00 
+319;1 to 2 times per week;Credit card;Parties;Spanish ham;Male;Secondary ;31 to 40; € 45,00 
+320;1 to 2 times per week;Credit card;Parties;Olives;Female;Secondary ;41 to 50; € 40,00 
+321;3 to 4 times per week;Cash;Friends home;Spanish ham;Female;Secondary ;41 to 50; € 26,00 
+322;3 to 4 times per week;Credit card;Friends home;Olives;Female;Secondary ;41 to 50; € 85,00 
+323;1 to 2 times per week;Debit card;Parties;Salmond;Female;Technical Superior;23 to 30; € 19,00 
+324;1 to 2 times per week;Credit card;On holidays;Chocolate;Male;Universitary Degree;41 to 50; € 61,00 
+325;1 to 2 times per week;Debit card;On holidays;Olives;Male;Postgraduate;31 to 40; € 35,00 
+326;1 to 2 times per week;Cash;Home;Candies;Male;Secondary Unfinished;23 to 30; € 99,00 
+327;1 to 2 times per week;Cash;Friends home;Olives;Male;Secondary ;31 to 40; € 61,00 
+328;1 to 2 times per week;Cash;On holidays;Chocolate;Female;Postgraduate;more than 50; € 17,00 
+329;Once per month;Debit card;Birthday party;Candies;Female;Technical Superior Unfinished;23 to 30; € 92,00 
+330;Once per day;Cash;On holidays;Candies;Female;Technical Superior Unfinished;23 to 30; € 43,00 
+331;1 to 2 times per week;Cash;Parties;Olives;Female;Secondary Unfinished;41 to 50; € 78,00 
+332;Once per day;Cash;Birthday party;Candies;Male;Technical Superior;23 to 30; € 48,00 
+333;Once per month;Cash;Parties;Spanish ham;Male;Technical Superior;more than 50; € 37,00 
+334;Once per day;Cash;Restaurant;Spanish ham;Female;1;41 to 50; € 92,00 
+335;1 to 2 times per week;Cash;Home;Chocolate;Male;Universitary Degree;31 to 40; € 69,00 
+336;Once per day;Debit card;Friends home;Nuts;Male;Secondary ;31 to 40; € 71,00 
+337;Once per day;Debit card;Friends home;Salmond;Female;Universitary Degree;23 to 30; € 48,00 
+338;3 to 4 times per week;Cash;Friends home;Spanish ham;Female;Technical Superior;41 to 50; € 59,00 
+339;3 to 4 times per week;Cash;Home;Cookies;Female;Universitary Degree;more than 50; € 64,00 
+340;Once per month;Cash;Friends home;Candies;Female;Universitary Degree Unfinished;23 to 30; € 72,00 
+341;1 to 2 times per week;Cash;Restaurant;Chocolate;Female;Secondary ;41 to 50; € 89,00 
+342;5 to 6 times per week;Credit card;On holidays;Spanish ham;Female;Primary;41 to 50; € 100,00 
+343;3 to 4 times per week;Debit card;Friends home;Chocolate;Female;Secondary ;23 to 30; € 22,00 
+344;1 to 2 times per week;Credit card;Parties;Olives;Female;Postgraduate Unfinished;more than 50; € 86,00 
+345;Once per month;Cash;Friends home;Olives;Female;Technical Superior;31 to 40; € 41,00 
+346;1 to 2 times per week;Cash;Parties;Spanish ham;Female;Technical Superior;23 to 30; € 67,00 
+347;1 to 2 times per week;Debit card;Parties;Olives;Female;Universitary Degree Unfinished;41 to 50; € 73,00 
+348;Once per day;Cash;Parties;Cookies;Male;Postgraduate;more than 50; € 29,00 
+349;Once per month;Cash;Birthday party;Spanish ham;Male;Secondary ;23 to 30; € 84,00 
+350;5 to 6 times per week;Cash;Birthday party;Salmond;Male;Secondary ;31 to 40; € 79,00 
+351;1 to 2 times per week;Credit card;Birthday party;Spanish ham;Male;Universitary Degree Unfinished;31 to 40; € 16,00 
+352;5 to 6 times per week;Debit card;Birthday party;Salmond;Male;Universitary Degree;31 to 40; € 18,00 
+353;5 to 6 times per week;Credit card;Home;Salmond;Female;Postgraduate;41 to 50; € 79,00 
+354;5 to 6 times per week;Cash;Birthday party;Salmond;Male;Secondary ;23 to 30; € 56,00 
+355;Once per month;Cash;Birthday party;Spanish ham;Female;Technical Superior;23 to 30; € 84,00 
+356;Once per month;Cash;On holidays;Chocolate;Male;Universitary Degree;41 to 50; € 99,00 
+357;1 to 2 times per week;Cash;Parties;Olives;Female;Postgraduate;31 to 40; € 32,00 
+358;3 to 4 times per week;Credit card;Parties;Olives;Male;Primary;31 to 40; € 95,00 
+359;1 to 2 times per week;Cash;Parties;Salmond;Male;Technical Superior Unfinished;23 to 30; € 60,00 
+360;1 to 2 times per week;Cash;On holidays;Olives;Female;Secondary ;23 to 30; € 78,00 
+361;3 to 4 times per week;Credit card;With your couple;Chocolate;Male;Universitary Degree;31 to 40; € 99,00 
+362;3 to 4 times per week;Credit card;Friends home;Salmond;Female;Universitary Degree;41 to 50; € 47,00 
+363;Once per month;Credit card;Birthday party;Chocolate;Male;Technical Superior;31 to 40; € 97,00 
+364;1 to 2 times per week;Debit card;With your couple;Olives;Male;Postgraduate;23 to 30; € 89,00 
+365;1 to 2 times per week;Credit card;On holidays;Olives;Male;Postgraduate;41 to 50; € 56,00 
+366;3 to 4 times per week;Debit card;Birthday party;Olives;Male;Universitary Degree;31 to 40; € 61,00 
+367;3 to 4 times per week;Debit card;On holidays;Cheese;Female;Universitary Degree;31 to 40; € 90,00 
+368;1 to 2 times per week;Cash;On holidays;Candies;Female;Universitary Degree;31 to 40; € 98,00 
+369;1 to 2 times per week;Cash;On holidays;Chocolate;Male;Technical Superior Unfinished;23 to 30; € 97,00 
+370;Once per day;Credit card;With your couple;Salmond;Male;Postgraduate;31 to 40; € 14,00 
+371;3 to 4 times per week;Cash;Parties;Candies;Female;Universitary Degree;31 to 40; € 36,00 
+372;1 to 2 times per week;Cash;On holidays;Olives;Female;Secondary Unfinished;23 to 30; € 49,00 
+373;Once per day;Cash;Parties;Olives;Female;Secondary ;31 to 40; € 22,00 
+374;Once per month;Cash;Friends home;Salmond;Female;Secondary ;41 to 50; € 68,00 
+375;Once per month;Credit card;Parties;Olives;Male;Secondary ;31 to 40; € 50,00 
+376;1 to 2 times per week;Cash;Home;Spanish ham;Male;Technical Superior;41 to 50; € 36,00 
+377;1 to 2 times per week;Debit card;Parties;Spanish ham;Female;Postgraduate;41 to 50; € 57,00 
+378;1 to 2 times per week;Cash;Parties;Olives;Male;Technical Superior;31 to 40; € 73,00 
+379;1 to 2 times per week;Cash;Parties;Olives;Female;Secondary ;41 to 50; € 54,00 
+380;1 to 2 times per week;Cash;Home;Spanish ham;Female;Technical Superior;41 to 50; € 28,00 
+381;Once per month;Credit card;On holidays;Salmond;Female;Universitary Degree;23 to 30; € 23,00 
+382;Once per month;Credit card;Birthday party;Salmond;Male;Universitary Degree;more than 50; € 32,00 
+383;1 to 2 times per week;Credit card;Friends home;Spanish ham;Male;Universitary Degree;more than 50; € 59,00 
+384;Once per month;Credit card;With your couple;Spanish ham;Male;Postgraduate;more than 50; € 62,00 
+385;1 to 2 times per week;Credit card;With your couple;Cheese;Male;Postgraduate Unfinished;23 to 30; € 19,00 
+386;1 to 2 times per week;Cash;On holidays;Candies;Male;Universitary Degree;more than 50; € 100,00 
+387;1 to 2 times per week;Cash;With your couple;Spanish ham;Male;Universitary Degree;41 to 50; € 30,00 
+388;1 to 2 times per week;Credit card;Parties;Olives;Male;Universitary Degree;more than 50; € 65,00 
+389;1 to 2 times per week;Credit card;Birthday party;Cookies;Male;Postgraduate;41 to 50; € 39,00 
+390;1 to 2 times per week;Credit card;Birthday party;Spanish ham;Male;Technical Superior;41 to 50; € 93,00 
+391;Once per month;Credit card;Birthday party;Spanish ham;Male;Universitary Degree;31 to 40; € 78,00 
+392;Once per day;Cash;On holidays;Spanish ham;Female;Technical Superior;31 to 40; € 89,00 
+393;Once per day;Cash;Birthday party;Olives;Male;Technical Superior;31 to 40; € 95,00 
+394;3 to 4 times per week;Debit card;On holidays;Spanish ham;Male;Universitary Degree;41 to 50; € 39,00 
+395;3 to 4 times per week;Cash;Parties;Olives;Female;Technical Superior;23 to 30; € 58,00 
+396;1 to 2 times per week;Credit card;Birthday party;Salmond;Male;Universitary Degree;41 to 50; € 31,00 
+397;Once per day;Cash;Parties;Chocolate;Female;Universitary Degree Unfinished;31 to 40; € 41,00 
+398;3 to 4 times per week;Credit card;Parties;Salmond;Male;Technical Superior Unfinished;31 to 40; € 98,00 
+399;Once per day;Cash;Birthday party;Olives;Male;Postgraduate;31 to 40; € 44,00 
+400;Once per month;Credit card;Birthday party;Spanish ham;Male;Universitary Degree;more than 50; € 55,00 
+401;3 to 4 times per week;Debit card;Parties;Olives;Female;Universitary Degree;23 to 30; € 76,00 
+402;1 to 2 times per week;Cash;Parties;Olives;Male;Postgraduate Unfinished;23 to 30; € 35,00 
+403;Once per day;Credit card;On holidays;Candies;Female;Technical Superior;31 to 40; € 54,00 
+404;1 to 2 times per week;Cash;Friends home;Candies;Male;Technical Superior;23 to 30; € 41,00 
