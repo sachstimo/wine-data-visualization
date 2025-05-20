@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
+import numpy as np
 
 
 
@@ -132,3 +133,55 @@ print(avg_ticket_by_product.round(2))
 print("\n3. Payment Mode Percentages by Age Group:")
 payment_percentages = payment_age.div(payment_age.sum(axis=1), axis=0) * 100
 print(payment_percentages.round(1))
+
+# Additional Analysis: Customer Segmentation
+# Create spending segments
+df['Spending_Segment'] = pd.qcut(df['Ticket'], q=4, labels=['Low', 'Medium', 'High', 'Very High'])
+
+# Analyze customer segments
+plt.figure(figsize=fs_half)
+segment_counts = df['Spending_Segment'].value_counts().sort_index()
+segment_counts.plot(kind='bar')
+plt.title('Customer Distribution by Spending Segment', fontsize=14, pad=20)
+plt.xlabel('Spending Segment', fontsize=12)
+plt.ylabel('Number of Customers', fontsize=12)
+plt.tight_layout()
+plt.savefig('figures/spending_segments.jpg', dpi=300, bbox_inches='tight')
+plt.close()
+
+# Gender Analysis (100% Stacked Bar)
+gender_product = pd.crosstab(df['Gender'], df['Additional products'])
+gender_product_pct = gender_product.div(gender_product.sum(axis=1), axis=0) * 100
+gender_product_pct.plot(kind='bar', stacked=True)
+plt.title('Product Preferences by Gender (100% Stacked)', fontsize=14, pad=20)
+plt.xlabel('Gender', fontsize=12)
+plt.ylabel('Percentage of Purchases (%)', fontsize=12)
+plt.legend(title='Products', bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.tight_layout()
+plt.savefig('figures/gender_products_pct.jpg', dpi=300, bbox_inches='tight')
+plt.close()
+
+# Education Level Analysis (Horizontal Bar, Sorted Descending)
+plt.figure(figsize=fs_half)
+education_spending = df.groupby('Education')['Ticket'].mean().sort_values(ascending=True)
+education_spending.plot(kind='barh', color='lightcoral')
+plt.title('Average Spending by Education Level', fontsize=14, pad=20)
+plt.xlabel('Average Ticket Value (€)', fontsize=12)
+plt.ylabel('Education Level', fontsize=12)
+plt.tight_layout()
+plt.savefig('figures/education_spending.jpg', dpi=300, bbox_inches='tight')
+plt.close()
+
+# Print additional statistics
+print("\nAdditional Statistics:")
+print("\n1. Customer Segments by Spending:")
+print(df['Spending_Segment'].value_counts().sort_index())
+
+print("\n2. Average Spending by Education Level:")
+print(education_spending.round(2))
+
+print("\n3. Gender Distribution:")
+print(df['Gender'].value_counts())
+
+print("\n4. Product Preferences by Gender:")
+print(gender_product)
